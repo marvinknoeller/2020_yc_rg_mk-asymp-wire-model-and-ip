@@ -1,6 +1,6 @@
 ## License
 
-Copyright (c) 2023, Yves Capdeboscq, Roland Griesmaier, Marvin Knöller
+Copyright (c) 2020, Yves Capdeboscq, Roland Griesmaier, Marvin Knöller
 
 This software is released under GNU General Public License, Version 3.
 The full license text is provided in the file LICENSE included in this repository 
