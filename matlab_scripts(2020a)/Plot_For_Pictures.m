@@ -1,0 +1,6 @@
+clear all
+close all
+
+forRing_relative_error
+forInfty_relative_error
+forDHelix_relative_error
