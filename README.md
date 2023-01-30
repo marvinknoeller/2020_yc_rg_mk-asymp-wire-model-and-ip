@@ -12,7 +12,7 @@ This is a guide to generate the figures that have been used in the work
 
 **„An asymptotic representation formula for scattering by thin tubular structures and an application in inverse scattering“**
 
-By Yves Capdeboscq, Roland Griesmaier and Marvin Knöller.
+_By Yves Capdeboscq, Roland Griesmaier and Marvin Knöller._
 
 You find all needed Matlab and Python files in the folders. 
 
