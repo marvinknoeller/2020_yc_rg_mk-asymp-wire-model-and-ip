@@ -10,7 +10,7 @@ or can be obtained from http://www.gnu.org/licenses/
 ## Content of this project
 This is a guide to generate the figures that have been used in the work
 
-„An asymptotic representation formula for scattering by thin tubular structures and an application in inverse scattering“
+**„An asymptotic representation formula for scattering by thin tubular structures and an application in inverse scattering“**
 
 By Yves Capdeboscq, Roland Griesmaier and Marvin Knöller.
 
